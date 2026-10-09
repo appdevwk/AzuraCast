@@ -33,7 +33,7 @@
     "chartjs-plugin-zoom": "^2.0.0",
     "codemirror": "^6",
     "codemirror-lang-liquidsoap": "^0.3",
-    "hls.js": "^1.1.5",
+    "hls.js": "^1.7.3",
     "leaflet": "^1.7.1",
     "leaflet-fullscreen": "^1.0.2",
     "lodash": "^4.17.21",
